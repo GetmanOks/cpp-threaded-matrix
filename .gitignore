@@ -1,0 +1,8 @@
+*.exe
+*.o
+*.obj
+.vs/
+protocol.txt
+protocol-test.txt
+compile-out.txt
+build-log.txt
